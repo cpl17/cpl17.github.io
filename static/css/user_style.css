@@ -1,0 +1,58 @@
+
+/* About Me Section  */
+
+.social-icons .social-icon:hover {
+    background-color: #f3b474;
+  }
+
+/* Resume Section  */
+
+section.resume-section {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    max-width: 75rem;
+}
+section.resume-section .resume-section-content {
+    width: 100%;
+}
+
+.resume-col{
+    padding-bottom: 5% ;
+    padding-top: 5%;
+}
+
+.skill-images{
+    padding-bottom: 1.5rem;
+    
+}
+
+.skills-other-par{
+    margin-left: 1rem;
+}
+
+.resume-col svg {
+    margin-bottom: 7%;
+    color: #d5d39c;
+}
+
+.project-titles{
+    font-size:120%;
+    font-weight:bold;
+    padding-bottom: 2rem;
+    color: #6c757d;
+
+}
+
+/* E Section  */
+
+
+
+/* Certification Section  */
+
+.text-warning {
+    color: #d5d39c !important;
+  }
